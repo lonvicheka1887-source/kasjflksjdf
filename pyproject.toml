@@ -1,0 +1,13 @@
+[project]
+name = "python-starter"
+version = "0.1.0"
+description = "Minimal Python starter scaffold"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  {name = "Project Contributors"}
+]
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
